@@ -4,7 +4,7 @@ Utility Program
 - Usage:
  program.exe [config file path]
 
-- EX: 
+- EX:
  program.exe "C:\XCELApp\config.xml"
 
 - Note:
